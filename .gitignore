@@ -13,3 +13,8 @@
 *.userprefs
 *.pidb
 *.booproj
+*.exe
+*.cache
+*.dll
+*.log
+*.pdb
